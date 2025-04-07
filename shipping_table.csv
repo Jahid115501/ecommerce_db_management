@@ -1,0 +1,61 @@
+order_id,shipping_address,shipping_date,delivery_date,status
+1,Khulna New Market,"('2023-10-25'),","('2023-10-27'),",Delivered
+2,"123/A Gulshan, Dhaka","('2023-05-05'),","('2023-05-13'),",Cancelled
+3,Rajshahi Main Road,"('2023-05-23'),","('2023-05-29'),",Cancelled
+4,Rajshahi Main Road,"('2023-01-02'),","('2023-01-10'),",Cancelled
+5,Rajshahi Main Road,"('2023-06-02'),","('2023-06-10'),",Cancelled
+6,"88 Chittagong Road, Narayanganj","('2023-06-10'),","('2023-06-20'),",Pending
+7,Rangpur Bazar,"('2023-06-25'),","('2023-06-30'),",Pending
+8,"Sector 10, Mirpur, Dhaka","('2023-09-19'),","('2023-09-29'),",Shipped
+9,"45/2 Dhanmondi, Dhaka","('2023-07-29'),","('2023-08-08'),",Cancelled
+10,"Sector 10, Mirpur, Dhaka","('2023-07-01'),","('2023-07-04'),",Pending
+11,Rangpur Bazar,"('2023-11-22'),","('2023-11-30'),",Pending
+12,"45/2 Dhanmondi, Dhaka","('2023-06-22'),","('2023-07-01'),",Shipped
+13,Rangpur Bazar,"('2023-03-22'),","('2023-03-26'),",Pending
+14,Sylhet City Center,"('2023-10-01'),","('2023-10-04'),",Pending
+15,Barisal Riverside,"('2023-09-02'),","('2023-09-11'),",Delivered
+16,Rangpur Bazar,"('2023-05-07'),","('2023-05-16'),",Delivered
+17,Rajshahi Main Road,"('2023-05-18'),","('2023-05-22'),",Shipped
+18,"Sector 10, Mirpur, Dhaka","('2023-09-27'),","('2023-10-01'),",Delivered
+19,Sylhet City Center,"('2023-11-23'),","('2023-11-30'),",Cancelled
+20,"Sector 10, Mirpur, Dhaka","('2023-04-12'),","('2023-04-15'),",Pending
+21,Barisal Riverside,"('2023-02-23'),","('2023-03-03'),",Shipped
+22,"45/2 Dhanmondi, Dhaka","('2023-07-09'),","('2023-07-14'),",Delivered
+23,Khulna New Market,"('2023-09-08'),","('2023-09-18'),",Shipped
+24,"45/2 Dhanmondi, Dhaka","('2023-09-18'),","('2023-09-28'),",Pending
+25,Barisal Riverside,"('2023-07-02'),","('2023-07-08'),",Cancelled
+26,"Sector 10, Mirpur, Dhaka","('2023-02-03'),","('2023-02-12'),",Shipped
+27,"123/A Gulshan, Dhaka","('2023-09-04'),","('2023-09-06'),",Pending
+28,Barisal Riverside,"('2023-12-04'),","('2023-12-14'),",Pending
+29,Barisal Riverside,"('2023-02-25'),","('2023-03-03'),",Delivered
+30,"123/A Gulshan, Dhaka","('2023-09-11'),","('2023-09-19'),",Pending
+31,"123/A Gulshan, Dhaka","('2023-01-22'),","('2023-01-27'),",Cancelled
+32,Barisal Riverside,('2023-07-29'),('2023-08-06'),Shipped
+33,"22 Uttara, Dhaka","('2023-02-24'),","('2023-03-01'),",Shipped
+34,"Sector 10, Mirpur, Dhaka","('2023-02-25'),","('2023-02-07'),",Shipped
+35,Rajshahi Main Road,"('2023-02-26'),","('2023-02-14'),",Delivered
+36,"22 Uttara, Dhaka","('2023-02-27'),","('2023-04-04'),",Pending
+37,Rangpur Bazar,"('2023-02-28'),","('2023-02-19'),",Shipped
+38,Khulna New Market,"('2023-03-01'),","('2023-06-14'),",Pending
+39,"Sector 10, Mirpur, Dhaka","('2023-03-02'),","('2023-05-09'),",Pending
+40,Rangpur Bazar,"('2023-03-03'),","('2023-01-06'),",Pending
+41,Sylhet City Center,"('2023-03-04'),","('2023-07-08'),",Pending
+42,"45/2 Dhanmondi, Dhaka","('2023-03-05'),","('2023-05-28'),",Pending
+43,"45/2 Dhanmondi, Dhaka","('2023-03-06'),","('2023-11-12'),",Shipped
+44,"45/2 Dhanmondi, Dhaka","('2023-03-07'),","('2023-05-16'),",Pending
+45,Barisal Riverside,"('2023-03-08'),","('2023-05-02'),",Shipped
+46,"45/2 Dhanmondi, Dhaka","('2023-03-09'),","('2023-03-14'),",Pending
+47,"22 Uttara, Dhaka","('2023-03-10'),","('2023-11-30'),",Delivered
+48,Khulna New Market,"('2023-03-11'),","('2023-04-16'),",Delivered
+49,Khulna New Market,"('2023-03-12'),","('2023-02-12'),",Cancelled
+50,Barisal Riverside,"('2023-03-13'),","('2023-09-26'),",Shipped
+51,Rangpur Bazar,"('2023-03-14'),","('2023-09-02'),",Delivered
+52,Barisal Riverside,"('2023-03-15'),","('2023-12-17'),",Shipped
+53,Rangpur Bazar,"('2023-03-16'),","('2023-11-01'),",Shipped
+54,Khulna New Market,"('2023-03-17'),","('2023-01-31'),",Shipped
+55,Barisal Riverside,"('2023-03-18'),","('2023-01-16'),",Shipped
+56,"22 Uttara, Dhaka","('2023-03-19'),","('2024-01-08'),",Delivered
+57,Barisal Riverside,"('2023-03-20'),","('2023-06-06'),",Pending
+58,Barisal Riverside,"('2023-03-21'),","('2023-02-13'),",Delivered
+59,Rangpur Bazar,"('2023-03-22'),","('2023-09-30'),",Delivered
+60,"Sector 10, Mirpur, Dhaka",('2023-03-23'),('2023-06-07'),Cancelled

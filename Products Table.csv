@@ -1,0 +1,61 @@
+product_name,category_id,price,stock_quantity,description
+Samsung Galaxy S21,1,799.99,50,Latest Samsung smartphone with 5G and amazing camera.
+Apple iPhone 13,1,999.99,30,New iPhone with high performance and iOS features.
+"Sony 65"" 4K Ultra HD TV",1,599.99,20,Smart TV with 4K resolution and Netflix support.
+Nike Air Max 2021,2,120,100,Comfortable sneakers for running and everyday wear.
+Adidas Ultraboost,2,180,80,High-performance running shoes with boost technology.
+Levi's Men Jeans,2,50,150,Stylish and comfortable jeans for men.
+Philips 5000 Series Razor,2,45,60,Electric razor with close shave for smooth skin.
+KitchenAid Stand Mixer,3,249.99,25,Powerful stand mixer for baking and cooking.
+Samsung Refrigerator,3,899.99,15,Smart refrigerator with touch screen and Wi-Fi.
+Dyson V11 Vacuum Cleaner,3,699.99,30,Cordless vacuum with powerful suction.
+Loreal Paris Shampoo,4,10,200,Shampoo for shiny and smooth hair.
+Maybelline New York Lipstick,4,15,250,Long-lasting lipstick with multiple shades.
+Dove Body Wash,4,8,180,Nourishing body wash with mild ingredients.
+The Alchemist by Paulo Coelho,5,12.99,150,Inspirational novel by Paulo Coelho.
+The Catcher in the Rye,5,9.99,120,Classic American novel by J.D. Salinger.
+Harry Potter Box Set,5,79.99,100,Complete Harry Potter series in box set.
+Call of Duty: Warzone,6,50,200,Popular first-person shooter video game.
+Adidas Yoga Mat,6,30,100,Non-slip mat for yoga and exercise.
+Garmin Fenix 6X Pro,6,599.99,50,Premium GPS smartwatch for outdoor activities.
+Monopoly Board Game,7,25,80,Classic family board game with real estate strategy.
+Lego Star Wars Set,7,45,75,Fun and creative Lego set for building Star Wars models.
+Barbie Dream House,7,150,60,Beautiful dollhouse set for Barbie dolls.
+NutriBullet Blender,3,89.99,200,High-performance blender for smoothies and juices.
+Ninja Foodi Pressure Cooker,3,129.99,50,9-in-1 pressure cooker for quick meals.
+Hamilton Beach Coffee Maker,3,45,120,Programmable coffee maker with 12-cup capacity.
+Sony Noise Cancelling Headphones,1,350,60,Wireless headphones with noise cancellation.
+Bose SoundLink Speaker,1,129.99,80,Portable Bluetooth speaker with clear sound.
+Canon EOS 80D Camera,1,999.99,30,DSLR camera with 24.2 MP and Wi-Fi connectivity.
+Garmin Forerunner 945,6,599.99,40,GPS smartwatch with advanced fitness tracking.
+Fitbit Charge 4,6,129.99,90,Fitness tracker with built-in GPS and heart rate monitor.
+Seiko Presage Automatic Watch,1,200,50,Elegant automatic watch with a stainless steel band.
+Casio G-Shock,1,60,100,Durable and shock-resistant wristwatch.
+Fossil Hybrid HR Smartwatch,1,149.99,75,Stylish hybrid smartwatch with fitness features.
+Gucci Handbag,2,900,20,Premium leather handbag from Gucci.
+Adidas Running Shorts,2,30,200,Comfortable running shorts for men.
+Columbia Outdoor Jacket,2,120,50,Warm and waterproof jacket for outdoor adventures.
+Ray-Ban Aviator Sunglasses,2,150,75,Classic aviator sunglasses for all occasions.
+Prada Sunglasses,2,250,30,Luxury sunglasses from Prada.
+Samsung Galaxy Tab S7,1,650,60,Premium Android tablet with high-resolution display.
+Apple MacBook Air,1,999,25,Lightweight laptop with powerful performance.
+HP Envy 13-inch Laptop,1,899.99,40,Stylish and powerful laptop with Intel Core i7.
+Dell XPS 13 Laptop,1,1099,50,Premium laptop with ultra-thin design.
+Logitech Wireless Mouse,1,29.99,200,Ergonomic wireless mouse for comfortable use.
+Lenovo ThinkPad X1 Carbon,1,1299,40,Business laptop with a high-resolution display.
+Acer Predator Gaming Laptop,1,1299.99,30,High-performance laptop for gaming.
+Alienware Aurora R10,1,1499,15,Gaming desktop with Intel Core i7 and NVIDIA GPU.
+Razer Kraken Gaming Headset,1,99.99,100,High-quality gaming headset with 7.1 surround sound.
+Corsair K95 RGB Gaming Keyboard,1,179.99,70,Mechanical gaming keyboard with RGB lighting.
+Logitech G502 Hero Mouse,1,49.99,80,High-performance gaming mouse with customizable buttons.
+Seagate 1TB External Hard Drive,1,59.99,120,Portable external storage for backup.
+WD 2TB External Hard Drive,1,79.99,100,High-speed portable storage for media files.
+SanDisk 128GB Flash Drive,1,15,150,Compact and high-speed USB flash drive.
+Samsung 512GB SSD,1,99.99,80,Fast SSD storage for high-speed data access.
+Kingston 16GB RAM,1,65,200,DDR4 RAM for fast computing.
+Intel Core i7 Processor,1,300,50,High-performance processor for gaming and editing.
+AMD Ryzen 5 Processor,1,200,70,Affordable processor for mid-range systems.
+EVGA GeForce GTX 1660 Super,1,250,60,Powerful GPU for gaming and video rendering.
+Gigabyte Z390 Motherboard,1,150,90,High-quality motherboard for Intel processors.
+MSI RTX 3070 Graphics Card,1,600,50,High-end graphics card for smooth gameplay.
+Alienware Gaming Monitor,1,350,30,27-inch gaming monitor with 144Hz refresh rate.
